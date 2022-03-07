@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 export function InkPens() {
-  const [inkpens, setInkpens] = useState(13);
+  const [inkpens, setInkpens] = useState(78);
 
   const addInkpen = (value) => {
     setInkpens(inkpens + value);
