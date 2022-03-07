@@ -8,7 +8,7 @@ export function Notebooks() {
   };
   return (
     <div className="items">
-      <span>Notebook:</span>
+      <span>Notebooks:</span>
 
       <button
         className="addNotebook"
